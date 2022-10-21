@@ -1,10 +1,10 @@
 ### Bem-Vindos ao meu Perfil 👋
  Olá, Me chamo Karol e sou:
- 
+ <ul>
  <li>Engenheira Mecânica</li>
  <li>Programadora Front-End</li>
  <li>Blogueira </li>
-
+</ul>
 <div>
   <a href="https://github.com/Kerolaine-Prado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kerolaine-Prado&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
