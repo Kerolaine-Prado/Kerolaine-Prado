@@ -14,7 +14,7 @@ empregos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name :Kerolaine-Prado
+          github_user_name :K  erolaine-Prado
           svg_out_path : dist/github-contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
